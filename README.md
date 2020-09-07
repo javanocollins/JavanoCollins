@@ -16,4 +16,4 @@
   </samp>
 </p>
 ### Programming Languages :rocket:
-JavaScript Vue.js React.js Node/Express CSS Sass Python
+|<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
