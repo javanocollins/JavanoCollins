@@ -5,7 +5,9 @@
   <samp>
     I'm <a href="https://github.com/JavanoCollins">Javano Collins</a> currently a Software Engineering major at <a href="http://www.btvi.edu.bs/">@BTVI :school: </a>.As a Software Engineer, I have fallen in love with web technologies, mainly working with Vue.js, React.js, Node/Express, and Sass. I love Python and find an intriguing interest in Machine Learning.
   </samp>
+  </p>
   
+<p align="center">
   <samp>
     Additional things about me:
     I am a boxer
