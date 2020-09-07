@@ -9,9 +9,9 @@
   
 <p align="center">
   <samp>
-    Additional things about me:
-    I am a boxer
-    I am an avid reader (subjects: finance, psychology, history, stem)
+    Additional things about me:<br>
+    I am a boxer<br>
+    I am an avid reader (subjects: finance, psychology, history, stem)<br>
     I love marine science and I self-proclaim to be an advocate for environmental health. An additional passion of mine lies in applying technology to Marine Science to save the       ocean. 
   </samp>
 </p>
