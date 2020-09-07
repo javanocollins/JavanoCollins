@@ -3,7 +3,8 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://github.com/JavanoCollins">Javano Collins</a> currently a Software Engineering major at <a href="http://www.btvi.edu.bs/">@BTVI :school: </a>.As a Software Engineer, I have fallen in love with web technologies, mainly working with Vue.js, React.js, Node/Express, and Sass. I love Python and find an intriguing interest in Machine Learning.
+    I'm <a href="https://github.com/JavanoCollins">Javano Collins</a> currently a Software Engineering major at <a href="http://www.btvi.edu.bs/">@BTVI :school: </a>.As a Software Engineer, I have fallen in love with web technologies, mainly working with Vue.js, React.js, Node/Express, and Sass. I love Python and find an intriguing interest in Machine Learning.</samp>
+  <samp>
 Additional things about me:
 I am a boxer
 I am an avid reader (subjects: finance, psychology, history, stem)
