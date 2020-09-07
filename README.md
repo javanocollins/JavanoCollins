@@ -17,4 +17,4 @@
 </p>
 ### Programming Languages :rocket:
 |<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/js.png" width=60> | <img src="https://github.com/JavanoCollins/JavanoCollins/blob/master/react.png" width=60> | <img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/vue.png" width=60> | <img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/node.png" width=60> | <img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/sass.png" width=60> | <img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/python3.png" width=60> |
-|:---:||:---:||:---:||:---:||:---:||:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
