@@ -29,3 +29,7 @@
 ### Currently Learning :books: 🕶
 TypeScript | FireBase | MySQL | MongoDB | GraphQL
 
+<hr>
+
+<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/matrix.gif" width=100%>
+
