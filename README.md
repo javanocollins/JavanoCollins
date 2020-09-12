@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Currently Learning :books: 🕶
-TypeScript | FireBase | MySQL | MongoDB | GraphQL
+TypeScript | FireBase | MySQL | MongoDB | GraphQL | Flutter
 
 <hr>
 
