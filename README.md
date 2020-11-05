@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://www.linkedin.com/in/javano-collins-703785a0" target="_blank"> Javano Collins</a>, currently a Software Engineering major at <a href="http://www.btvi.edu.bs/">@BTVI :school: </a>. As a Software Engineer, I have fallen in love with web technologies, and find an intriguing interest in Machine Learning.
+    I'm <a href="https://www.linkedin.com/in/javano-collins-703785a0" target="_blank"> Javano Collins</a>, currently a Software Engineering major at <a href="http://www.btvi.edu.bs/">@BTVI :school: </a>. As a Software Engineer, I have fallen in love with web technologies, and find a academic and career interest in Machine Learning.
   </samp>
   </p>
   
