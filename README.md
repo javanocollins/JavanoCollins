@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Currently Learning :books: 🕶
-TypeScript | FireBase | MySQL | MongoDB | GraphQL | Flutter
+TypeScript | MySQL | MongoDB | GraphQL | React Native | Machine Learning
 
 <hr>
 
