@@ -12,7 +12,7 @@
     Additional things about me:<br>
     I am a boxer<br>
     I am an avid reader (subjects: finance, psychology, history, stem)<br>
-    I love marine science and I self-proclaim to be an advocate for environmental health. An additional passion of mine lies in applying technology to Marine Science to save the       ocean. 
+    I love marine science. An additional passion of mine is using technology to help save the marine ecosystems. 
   </samp>
 </p>
 
