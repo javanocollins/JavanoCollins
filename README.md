@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Currently Learning :books: 🕶
-TypeScript | MySQL | MongoDB | GraphQL | React Native | Machine Learning
+TypeScript | MongoDB | Linux
 
 <hr>
 
