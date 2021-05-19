@@ -31,5 +31,5 @@ TypeScript | MongoDB | Linux
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/matrix.gif" width=100%>
+<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/matrix.gif" width=70%>
 
