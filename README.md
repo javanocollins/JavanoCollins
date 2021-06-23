@@ -18,7 +18,7 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/github-banner.jpg" width=100%>
+<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/Linkedin.png" width=100%>
 
 <hr>
 
