@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/Githhub%20Banner.png" width=100%>
 ### Hi there 👋
 <p align="left">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
@@ -15,10 +16,6 @@
     I love marine science. An additional passion of mine is using technology to help save the marine ecosystems. 
   </samp>
 </p>
-
-<hr>
-
-<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/Githhub%20Banner.png" width=100%>
 
 <hr>
 
