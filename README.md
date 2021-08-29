@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://www.linkedin.com/in/javano-collins-703785a0" target="_blank"> Javano Collins</a>, currently a Software Engineering major at <a href="http://www.btvi.edu.bs/">@BTVI :school: </a>. As a Software Engineer, I have fallen in love with web technologies, and find a academic and career interest in Machine Learning.
+    I'm <a href="https://www.linkedin.com/in/javano-collins-703785a0" target="_blank"> Javano Collins</a>, a recent Software Engineering grad at <a href="http://www.btvi.edu.bs/">@BTVI :school: </a> and current a part of the amazing team at <a href="http://www.platoalpha.com/">Plato Alpha</a>. As a Software Engineer, I have fallen in love with web technologies, and find a academic and career interest in Machine Learning.
   </samp>
   </p>
   
