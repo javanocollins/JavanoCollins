@@ -24,9 +24,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 ### Currently Learning :books: 🕶
-TypeScript | MongoDB | Linux
+TypeScript | Linux | Design 
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/matrix.gif" width=70%>
+<img src="https://raw.githubusercontent.com/JavanoCollins/JavanoCollins/master/matrix.gif" width=60%>
 
