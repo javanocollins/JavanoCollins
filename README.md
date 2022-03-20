@@ -22,7 +22,7 @@
 ### Programming Languages and Tools :rocket: :computer:
 <img src="https://raw.githubusercontent.com/javanocollins/JavanoCollins/master/image.png" width=100%>
 
-### Currently Learning :books: 🕶
+### Currently Learning :books:
 TypeScript | Design 
 
 <hr>
