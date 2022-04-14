@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/javanocollins/JavanoCollins/master/image.png" width=100%>
 
 ### Currently Learning :books:
-TypeScript | Design 
+TypeScript | React Native | Docker | Design 
 
 <hr>
 
