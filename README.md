@@ -8,15 +8,6 @@
   </samp>
   </p>
   
-<p align="left">
-  <samp>
-    Additional things about me:<br>
-    I am a boxer<br>
-    I am an avid reader (subjects: finance, psychology, history, stem)<br>
-    I love marine science. An additional passion of mine is using technology to help save the marine ecosystems. 
-  </samp>
-</p>
-
 <hr>
 
 ### Programming Languages and Tools :rocket: :computer:
